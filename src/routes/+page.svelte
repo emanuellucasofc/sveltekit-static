@@ -10,8 +10,8 @@
 	<h1>
 		<div class="Emanoel">
 			<picture>
-				<source srcset="svelte-welcome.webp" type="image/webp" />
-				<img src="svelte-welcome.png" alt="Welcome" />
+				<source srcset="svelte-emanoel.webp" type="image/webp" />
+				<img src="svelte-emanoel.png" alt="Emanoel" />
 			</picture>
 		</div>
 
