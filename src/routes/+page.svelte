@@ -17,6 +17,23 @@
 
 		Meu Primeiro<br />site na nuvem
 	</h1>
+<a
+  href="https://wa.me/5521974446105?text=Vi%20seu%20site"
+  target="_blank"
+  style="
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 20px;
+    background-color: #25D366;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+  "
+>
+  Falar comigo no WhatsApp
+</a>
+
 
 	<h2>
 		try editing <strong>src/routes/index.svelte</strong>
