@@ -3,19 +3,19 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Inicio</title>
 </svelte:head>
 
 <section>
 	<h1>
-		<div class="welcome">
+		<div class="Emanoel">
 			<picture>
 				<source srcset="svelte-welcome.webp" type="image/webp" />
 				<img src="svelte-welcome.png" alt="Welcome" />
 			</picture>
 		</div>
 
-		to your new<br />SvelteKit app
+		Meu Primeiro<br />site na nuvem
 	</h1>
 
 	<h2>
